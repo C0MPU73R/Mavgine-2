@@ -1,4 +1,4 @@
-Mavgine-2
+Mavgine 2
 =========
 
 Mavgine 2 is an open source componet based game engine written in C++.
@@ -6,3 +6,5 @@ Although there are only visual studio projects in the repository at the moment(m
 
 
 Mavgine 1 was developed under closed source. I&#39;m going to use the lessons I learned from it to develop Mavgine 2.
+
+This fork will continue the development of Mavgine 2 created by Maverick. (https://www.github.com/mmavipc)
