@@ -1,3 +1,7 @@
+/*
+@filename: Plugin.h
+*/
+
 #ifndef PLUGIN_H
 #define PLUGIN_H
 

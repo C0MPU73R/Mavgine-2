@@ -1,3 +1,7 @@
+/*
+@filename: CoreExport.h
+*/
+
 #ifndef COREEXPORT_H
 #define COREEXPORT_H
 

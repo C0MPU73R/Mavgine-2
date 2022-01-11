@@ -1,5 +1,9 @@
-#ifndef OSABSTRACTION_H
-#define OSABSTRACTION_H
+/*
+@filename: OSAbstraction.h
+*/
+
+#ifndef OS_ABSTRACTION_H
+#define OS_ABSTRACTION_H
 
 #include <string>
 

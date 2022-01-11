@@ -1,3 +1,6 @@
+/*
+@filename: PluginManager.h
+*/
 #ifndef PLUGINMANAGER_H
 #define PLUGINMANAGER_H
 #ifndef COREDLL

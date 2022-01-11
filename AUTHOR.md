@@ -1,1 +1,1 @@
-Copyright (c) Maverick Mosher
+Copyright (c) Avery Mosher

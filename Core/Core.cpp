@@ -1,5 +1,5 @@
-// Core.cpp : Defines the exported functions for the DLL application.
-//
+//@filename: Core.cpp
+//Defines the exported functions for the DLL application.
 
 #include <Mavgine2\Core\Core.h>
 #include "Engine\CEngine.h"

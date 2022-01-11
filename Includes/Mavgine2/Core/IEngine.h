@@ -1,3 +1,7 @@
+/*
+@filename: IEngine.h
+*/
+
 #ifndef IENGINE_H
 #define IENGINE_H
 
@@ -7,7 +11,7 @@ namespace Mavgine2
 {
 	enum EngineStatus
 	{
-		ES_INIT = 0,
+		ES_INIT,
 		ES_RUN,
 		ES_SHUTDOWN
 	};

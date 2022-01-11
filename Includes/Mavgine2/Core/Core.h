@@ -1,3 +1,6 @@
+/*
+@filename: Core.h
+*/
 #ifndef CORE_H
 #define CORE_H
 
@@ -5,6 +8,7 @@
 #include <string>
 
 #define EXPECTEDENGINEVERSION "MavgineDev"
+
 //namespace C
 extern "C"
 {
